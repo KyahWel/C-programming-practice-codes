@@ -1,1 +1,2 @@
-# Copyright © William Cris Hod, Technological Univeristy of the Philippines Manila
+# Copyright 
+© William Cris Hod, Technological Univeristy of the Philippines Manila
